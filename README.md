@@ -7,4 +7,5 @@
 > 
 
 |-- DesignPatterns
+
 |	|-- Creational
